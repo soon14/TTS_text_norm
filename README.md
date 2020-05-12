@@ -1,13 +1,20 @@
 # TTS_text_norm
 chinese and English text normalization of TTS
 
+## 运行英文
 
-pip install -i http://pypi.douban.com/simple/ --trusted-host=pypi.douban.com/simple inflect
-pip install Unidecode
+```
+pyhton eng_text_normalize.py
+```
+or 
 
-pip install -i https://pypi.doubanio.com/simple/ --trusted-host pypi.doubanio.com xgboost
+```
+cd English-Text-Normalization-for-TTS
+pyhton eng_textNor.py
+```
 
-
-echo $PATH
-/Users/ccs/Desktop/myRepo/ChiNeseTextNormalization/TTS_text_norm
-export PATH=$PATH:/Users/ccs/Desktop/myRepo/ChiNeseTextNormalization/TTS_text_norm
+## 运行中文
+```
+cd chinese_text_normalization/TN
+./run.sh
+```
