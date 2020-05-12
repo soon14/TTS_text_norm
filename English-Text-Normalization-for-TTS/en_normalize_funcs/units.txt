@@ -1,0 +1,254 @@
+percent	%
+byte	B
+kilobyte	kb
+megabyte	mb
+gigabyte	gb
+terabyte	tb
+petabyte	pb
+exabyte	eb
+zettabyte	zb
+yottabyte	yb
+square kilometer	km2
+square meter	m2
+square centimeter	cm2
+square millimeter	mm2
+hectare	ha
+square mile	sqmi
+acre	acre
+square yard	sqyd
+square foot	sqft
+square foot	sqfoot
+square inch	sqin
+square nautical mile	sqnmi
+dunam	dunam
+tsubo	tsubo
+kilogram per cubic meter	kg/m3
+gram per cubic meter	g/m3
+pound per cubic foot	lb/ft3
+pound per cubic yard	lb/yd3
+gigajoule	GJ
+megajoule	MJ
+kilojoule	kJ
+hectojoule	hJ
+decajoule	daJ
+joule	J
+decijoule	dJ
+centijoule	cJ
+millijoule	mJ
+microjoule	μJ
+microjoule	uJ
+nanojoule	nJ
+megaerg	Merg
+kiloerg	kerg
+erg	erg
+terawatt-hour	TWh
+terawatt-hour	TW.h
+gigawatt-hour	GWh
+gigawatt-hour	GW.h
+megawatt-hour	MWh
+megawatt-hour	MW.h
+kilowatt-hour	kWh
+kilowatt-hour	kW.h
+watt-hour	Wh
+watt-hour	W.h
+terawatt	TW
+gigawatt	GW
+megawatt	MW
+kilowatt	kW
+watt	W
+gigaelectronvolt	GeV
+megaelectronvolt	MeV
+kiloelectronvolt	keV
+electronvolt	eV
+millielectronvolt	meV
+calorie	Cal
+megacalorie	Mcal
+kilocalorie	kcal
+millicalorie	mcal
+foot-poundal	ftpdl
+foot-pound force	ftlbf
+foot-pound force	ftlb-f
+inch-pound force	inlbf
+inch-pound force	inlb-f
+inch-ounce force	inozf
+inch-ounce force	inoz-f
+horsepower-hour	hph
+horsepower	hp
+British thermal unit	BTU
+gigatonne of TNT	GtTNT
+gigaton of TNT	GtonTNT
+megatonne of TNT	MtTNT
+megaton of TNT	MtonTNT
+kilotonne of TNT	ktTNT
+kiloton of TNT	ktonTNT
+tonne of TNT	tTNT
+ton of TNT	tonTNT
+Hartree	Eh
+rydberg	Ry
+tonne of oil equivalent	toe
+barrel of oil equivalent	BOE
+cubic foot of natural gas	cufootnaturalgas
+cubic foot of natural gas	cuftnaturalgas
+litre-atmosphere	latm
+imperial gallon-atmosphere	impgalatm
+U S gallon-atmosphere	usgalatm
+giganewton	GN
+meganewton	MN
+kilonewton	kN
+newton	N
+millinewton	mN
+micronewton	μN
+micronewton	uN
+nanonewton	nN
+megadyne	Mdyn
+kilodyne	kdyn
+dyne	dyne
+dyne	dyn
+millidyne	mdyn
+tonne-force	t-f
+tonne-force	tf
+kilogram-force	kg-f
+kilogram-force	kgf
+gram-force	g-f
+gram-force	gf
+milligram-force	mg-f
+milligram-force	mgf
+poundal	pdl
+long ton-force	LT-f
+long ton-force	LTf
+short ton-force	ST-f
+short ton-force	STf
+pound-force	lb-f
+pound-force	lbf
+grain-force	gr-f
+grain-force	grf
+megameter	Mm
+kilometer	km
+meter	m
+centimeter	cm
+millimeter	mm
+micrometer	μm
+micrometer	um
+nanometer	nm
+angstrom	Å
+mile	mi
+furlong	furlong
+chain	chain
+rod	rd
+fathom	fathom
+yard	yd
+foot	ft
+inch	in
+nautical mile	nmi
+parsec	pc
+light-year	ly
+astronomical unit	AU
+kilogram	kg
+gram	g
+milligram	mg
+microgram	μg
+microgram	ug
+tonne	t
+metric ton	MT
+long ton	LT
+short ton	ST
+stone	st
+pound	lb
+ounce	oz
+drachm	drachm
+drachm	dram
+grain	gr
+troy ounce	ozt
+carat	carat
+meter per second	m/s
+kilometer per hour	km/h
+mile per hour	mph
+foot per second	ft/s
+foot per second	foot/s
+knot	kn
+Kelvin	K
+degree celsius	°C
+degrees Rankine	°R
+degrees Rankine	°Ra
+degrees Rankine	R
+degree fahrenheit	°F
+degree fahrenheit	F
+Celsius change	C-change
+Fahrenheit change	F-change
+newton meter	Nm
+kilogram meter	kg.m
+pound force-foot	lb.ft
+newton meter	N.m
+kilogram force-meter	kgf.m
+pound force-foot	lbf.ft
+cubic meter	m3
+cubic centimeter	cm3
+cubic centimeter	cc
+cubic millimeter	mm3
+kilolitre	kl
+litre	l
+centilitre	cl
+millilitre	ml
+cubic yard	cuyd
+cubic foot	cuft
+cubic foot	cufoot
+cubic inch	cuin
+imperial barrel	impbbl
+imperial bushel	impbsh
+imperial bushel	impbu
+imperial gallon	impgal
+imperialquart	impqt
+imperial pint	imppt
+imperial fluid ounce	impoz
+imperial fluid ounce	 impfloz
+U S barrel	USbbl
+barrel	oilbbl
+U S beer barrel	USbeerbbl
+U S gallon	USgal
+USquart	USqt
+U S pint	USpt
+U S fluid ounce	USoz
+U S fluid ounce	usfloz
+U S dry barrel	USdrybbl
+U S bushel	USbsh
+U S bushel	USbu
+U S dry gallon	USdrygal
+U S dry quart	USdryqt
+U S dry pint	USdrypt
+gigapascal	GPa
+megapascal	MPa
+kilopascal	kPa
+hectopascal	hPa
+pascal	Pa
+millipascal	mPa
+millibar	mbar
+millibar	mb
+decibar	dbar
+bar	bar
+kilobarye	kBa
+barye	Ba
+standard atmosphere	atm
+torr	Torr
+millimeter of mercury	mmHg
+inch of mercury	inHg
+pound per square inch	psi
+kilometers per litre	km/l
+litres per hundred kilometers	l/100 km
+litres per kilometer	l/km
+miles per imperial gallon	mpgimp
+miles per U S gallon	mpgus
+miles per U S gallon	mpgU.S
+imperial gallons per mile	impgal/mi
+U S gallons per mile	usgal/mi
+U S gallons per mile	U.S.gal/mi
+inhabitants per square kilometer	PD/km2
+per square kilometer	/km2
+inhabitants per hectare	PD/ha
+per hectare	/ha
+inhabitants per square mile	PD/sqmi
+per square mile	/sqmi
+inhabitants per acre	PD/acre
+per acre	/acre
+dollars per pound	$/lb
+dollars per kilogram	$/kg
+dollars pertroy ounce	$/ozt
